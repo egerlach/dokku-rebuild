@@ -13,6 +13,7 @@ Installation
 ```
 cd /var/lib/dokku/plugins
 git clone https://github.com/scottatron/dokku-rebuild rebuild
+dokku plugins-install
 ```
 
 Tagged releases are compatible with the equivalent Dokku release e.g. Dokku v0.2.x / Dokku Rebuild v0.2.x
